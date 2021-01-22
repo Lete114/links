@@ -1,0 +1,224 @@
+class:
+  class_name: 个人站点
+  link_list:
+  
+    - name: Butterfly博客
+      link: https://butterfly.lete114.top/
+      avatar: https://cdn.jsdelivr.net/gh/lete114/CDN/Lete.png
+      descr: Butterfly主题博客
+
+    - name: 导航网
+      link: https://nav.lete114.top/
+      avatar: https://nav.lete114.top/images/favicon.png
+      descr: 个人导航网
+
+    - name: 个人主页
+      link: https://www.lete114.top/
+      avatar: https://cdn.jsdelivr.net/gh/lete114/CDN/Lete.png
+      descr: Lete乐特个人主页
+
+    - name: yilia博客
+      link: https://yilia.lete114.top/
+      avatar: https://cdn.jsdelivr.net/gh/lete114/CDN/Lete.png
+      descr: yilia主题博客
+class2:
+  class_name: 开源项目
+  link_list:
+
+    - name: Hexo-MengD
+      link: https://github.com/lete114/hexo-theme-MengD
+      avatar: https://github.com/favicon.ico
+      descr: 一个崇尚简约优雅，以及极致的性能，把注意力集中到内容上
+
+    - name: Hexo-Yilia-Pro主题
+      link: https://github.com/lete114/hexo-theme-yilia-pro
+      avatar: https://github.com/favicon.ico
+      descr: 基于Yilia主题优化于修改
+
+    - name: Hexo-SEO-AutoPush
+      link: https://github.com/lete114/hexo-seo-autopush
+      avatar: https://github.com/favicon.ico
+      descr: 每天自动提交网站URL到Baidu、Bing、Google
+class3:
+  class_name: 友情链接
+  class_desc: 普通友链
+  link_list:
+    - name: 小康博客
+      link: https://www.antmoe.com/
+      avatar: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
+      descr: 一个收藏回忆与分享技术的地方！
+
+    - name: Seeker
+      link: https://snow.js.org/
+      avatar: https://cdn.jsdelivr.net/gh/srkeo/img/share.jpg
+      descr: 沧海月明珠有泪
+
+    - name: 丁生的个人博客
+      link: http://fabian4.gitee.io/
+      avatar: https://i.loli.net/2020/04/23/ZWnOQA3kUGKXSjJ.jpg
+      descr: 一个编程小白的个人成长记录博客
+
+    - name: cungudafa
+      descr: 一个学习记录者
+      link: https://cungudafa.top
+      avatar: https://cdn.jsdelivr.net/gh/cungudafa/cdn/img/custom/cungudafa.jpg
+
+    - name: 神邸 - Zendee.cn
+      descr: 加入神邸,精彩由你！
+      link: https://www.zendee.cn
+      avatar: https://www.zendee.cn/zendee.ico
+
+    - name: 会飞的小弋
+      link: https://lovelijunyi.gitee.io/
+      avatar: https://gitee.com/lovelijunyi/images/raw/master/20200404135847.jpg
+      descr: 喜欢大数据，嵌入式和机器视觉
+
+    - name: 初辰の博客
+      link: https://bt-sonny.gitee.io/
+      avatar: https://cdn.jsdelivr.net/gh/chuchendjs/picgo/picgo/bt-sonny.jpg
+      descr: 成功是努力的另一名字！
+
+    - name: 幕光倾城-Linfeng Mei
+      link: https://www.meilinfeng.top
+      avatar: https://s1.ax1x.com/2020/05/15/YymjXQ.jpg
+      descr: 钝学累功-勤能补拙
+
+    - name: 百般美好
+      link: https://ply.cool/
+      avatar: https://cdn.jsdelivr.net/gh/Xiexinyue123/image/1163.PNG
+      descr: 山有扶苏，隰有荷华
+
+    - name: MiChong
+      link: https://www.buildworld.cn/
+      avatar: https://www.buildworld.cn/img/header.PNG
+      descr: MiChong的🏡
+
+    - name: kifroom
+      link: https://www.kifroom.icu
+      avatar: https://s1.ax1x.com/2020/06/23/NUr8pQ.jpg
+      descr: kif的树洞
+
+    - name: 荷塘月色的博客
+      link: https://www.yansheng.xyz
+      avatar: https://myblog12.qiniu.yansheng.xyz/head.jpg
+      descr: 生活不止漫无天日的代码和bug，还有诗和远方。
+
+    - name: Aurora`s
+      link: https://blog.this52.cn/
+      avatar: https://cdn.jsdelivr.net/gh/52assert/CDN/img/20200628150416.jpg
+      descr: 偷偷厉害 万物尽可期待！
+
+    - name: MJ’s Blog
+      link: https://justlovesmile.top
+      avatar: https://cdn.jsdelivr.net/gh/Justlovesmile/CDN/image/logo.jpg
+      descr: 醒亦念卿，梦亦念卿
+
+    - name: kali’s blog
+      link: https://xiaozhang.gq/
+      avatar: https://cdn.jsdelivr.net/gh/kali65536/cdnmovie@master/pwa/512.png
+      descr: Never put off till tomorrow what you can do today
+
+    - name: GamerNoTitle
+      link: https://bili33.top
+      avatar: https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo@1.0/AboutMe/logo-mini.png
+      descr: 一个在懵懂无知中成长的高中生程序员^V^
+
+    - name: XIN.
+      link: https://hexo.flyyi.top/
+      avatar: https://thirdqq.qlogo.cn/g?b=sdk&k=zzZgEDkUOXZXFbcNYLb0iaA&s=640&t=1589040609
+      descr: 小新的个人博客
+
+    - name: HowieHye
+      link: https://howiehye.top
+      avatar: https://cdn.jsdelivr.net/gh/HowieHye/CDN//blog/avatar.png
+      descr: 功在勤政，威在律己
+
+    - name: 米奇妙妙屋
+      link: https://ifibe.com/
+      avatar: https://ifibe.com/img/hotlink-ok/avatar.webp
+      descr: 教程随笔，内容分享
+
+    - name: 阿楠
+      link: https://nanzx.top
+      avatar: https://cdn.jsdelivr.net/gh/839777408/tupian/img/head.jpg
+      descr: 百学须先立志
+
+    - name: 卓越科技的Blog
+      link: https://zykj.js.org/
+      avatar: https://cdn.jsdelivr.net/gh/zykjofficial/zykjofficial.github.io@master/img/avatar.png
+      descr: Remarkable life,for science and technology.
+
+    - name: dna049
+      link: https://dna049.com
+      avatar: https://dna049.com/avatar.png
+      descr: 记录数学和程序的点滴
+
+    - name: 夜阑浇酒
+      link: https://www.flaringht.cn/
+      avatar: https://cdn.jsdelivr.net/gh/vickyljj/chucun/usr/uploads/2020/07/3429007563.png
+      descr: 满嘴胡扯
+
+    - name: 砂糖のH图床
+      link: https://p.erosouko.pub/
+      avatar: https://i.pro.erosouko.pub/2020/08/08/5b138dd0807d2.jpg
+      descr: 简单的公共高速图床的说(/≧▽≦)/
+
+    - name: Eren の 宇宙船
+      link: https://erenship.com/ 
+      avatar: https://cdn.jsdelivr.net/gh/erenlu/PicGo/img/Eren.jpg
+      descr: 觅之，自有所获
+
+    - name: SL
+      link: https://blog.slqwq.cn/
+      avatar: https://cdn.slblog.ga/pic/logo.png
+      descr: 梦中做梦,做了个白日梦
+
+    - name: 时过境迁Wayne博客
+      link: https://wr0926.ml
+      avatar: https://cdn.jsdelivr.net/gh/wayne0926/myphoto/img/avatar.jpg
+      descr: 以梦为马，不负韶华
+
+    - name: 優萌初華
+      link: https://shoka.lostyu.me
+      avatar: https://cdn.jsdelivr.net/gh/amehime/shoka@latest/images/avatar.jpg
+      descr: 琉璃的医学 & 编程笔记
+
+    - name: 白夜
+      link: https://ahzoo.cn/
+      avatar: https://ahzoo.cn/img/head.jpg
+      descr: 似此星辰非昨夜，为谁风露立中宵？
+
+    - name: FoxScallion
+      link: https://www.foxscallion.top/
+      avatar: https://cdn.jsdelivr.net/gh/foxscallion11/source/imgaes/20200728143216.jpg
+      descr: 幻想梦境中星空的样子和那遥不可及的流星
+
+    - name: wallleap
+      link: https://myblog.wallleap.cn/
+      avatar: https://cdn.jsdelivr.net/gh/wallleap/cdn@latest/img/custom/avatar.jpg
+      descr: Luwang’s Blog
+
+    - name: 仟寻
+      link: https://www.liuyewei.com/
+      avatar: https://cdn.jsdelivr.net/gh/liuyeweiQX/picBed/img/avatar3.jpeg
+      descr: 却又突然听到你的消息!
+
+    - name: 乡树
+      link: https://www.xiangshu233.cn
+      avatar: https://cdn.jsdelivr.net/gh/xiangshu233/blogAssets@0.1/assets/images/avatar.jpg
+      descr: 🌺花有重开日，人无再少年🏃
+
+    - name: 乌托邦
+      link: https://utp.zhiblog.cn/
+      avatar: https://img.zhiblog.cn/1595409551211.png
+      descr: 我不知将去何方、但我已在路上
+
+    - name: xwcker
+      link: https://www.hack-gov.com.cn/
+      avatar: https://www.hack-gov.com.cn/img/friend_404.gif
+      descr: 海客GO - 爱牟 听着海客的瀛谈
+
+    - name: OY
+      link: https://oy6090.top
+      avatar: https://gitee.com/oy_chart_bed/no1_drawing_bed/raw/master/20200709165556.jpg
+      descr: 放弃不难，但坚持一定很酷
