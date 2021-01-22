@@ -217,8 +217,120 @@ class3:
       link: https://www.hack-gov.com.cn/
       avatar: https://www.hack-gov.com.cn/img/friend_404.gif
       descr: 海客GO - 爱牟 听着海客的瀛谈
+      
+    - name: Max's Blog
+      link: https://www.immaxfang.com
+      avatar: https://www.immaxfang.com/img/avatar.png
+      descr: Keep coding. Keep running.
 
-    - name: OY
-      link: https://oy6090.top
-      avatar: https://gitee.com/oy_chart_bed/no1_drawing_bed/raw/master/20200709165556.jpg
-      descr: 放弃不难，但坚持一定很酷
+    - name: Nesxc
+      link: https://www.nesxc.com
+      avatar: https://www.nesxc.com/img/tx.jpg
+      descr: 青石落晚巷 故人未还乡
+
+    - name: 流恋のBlog
+      link: https://yuanyuanzi.top/
+      avatar: https://cdn.jsdelivr.net/gh/xiayuan-001/blogimg/img/a54294357f4ffef5c797560b33db211.jpg
+      descr: 分享教程与生活！
+
+    - name: heart-of-engine
+      link: https://heart-of-engine.github.io/
+      avatar: https://heart-of-engine-picture-bed-1.oss-cn-beijing.aliyuncs.com/img/%E4%B8%AA%E4%BA%BA%E5%A4%B4%E5%83%8F.jpg
+      descr: 专注于数学与编程的完美结合,分享生活,分享知识
+    
+    - name: 贰猹的小窝
+      link: https://noionion.top/
+      avatar: https://noionion-picture-bed.oss-cn-hangzhou.aliyuncs.com/img/head.jpg
+      descr: 用这生命中的每一秒，给自己一个不后悔的未来
+    
+    - name: 南念的时光录
+      link: https://imlql.cn/
+      avatar: https://cdn.jsdelivr.net/gh/youthlql/lql_img/blog/avatar.jpg
+      descr: 主要是Java技术栈的博客，比较偏原理，源码类型的博主
+
+    - name: JC小站
+      link: https://jcxiaozhan.gitee.io
+      avatar: https://img.jcxiaozhan.top/%E7%BD%91%E7%AB%99%E5%B0%8F%E5%9B%BE%E6%A0%87.png
+      descr: 与你们共享生活和今日份的丧
+
+    - name: 开发者致敬 
+      link: https://www.bufferfly.cn/
+      avatar: https://cdn.jsdelivr.net/gh/adminks666/bufferfly.cn/images/avatar.jpg
+      descr: HEXO-主题Butterfly主题优秀开发魔改致
+
+    - name: Arvin's Blog
+      link: https://arvinsblog.gitee.io/
+      avatar: https://q1.qlogo.cn/g?b=qq&nk=958655269&s=140
+      descr: 小时候词不达意，长大了言不由衷
+    
+    - name: 猫薄荷球
+      link: https://www.catnipball.xyz/
+      avatar: https://cdn.jsdelivr.net/gh/lllxh/cdn/img/avatar.jpg
+      descr: 如果你的人生只有柠檬，不妨配盐喝点龙舌兰
+
+    - name: Laihsiao's Blog
+      link: https://jilins.top/
+      avatar: https://s3.ax1x.com/2020/11/29/DcdjzD.png
+      descr: 来萧的博客
+
+    - name: CC的部落格
+      link: https://blog.ccknbc.cc/
+      avatar: https://cdn.jsdelivr.net/gh/ccknbc-backup/cdn/logo/ccknbc.png
+      descr: 菜狗
+
+    - name: 小冰博客
+      link: https://zfe.one
+      avatar: https://zfe.space/images/headimage.png
+      descr: 做个有梦想的人！
+
+    - name: 青葱博客
+      link: https://ciraos.top/
+      avatar: https://ciraos.top/mysource/image/avatar.jpg
+      descr: 一切皆付笑谈中
+
+    - name: 长情
+      link: http://www.cq.qcwy.org.cn/
+      avatar: http://www.blog.image.qcwy.org.cn/atavar/atavar.jpg
+      descr: 你相信什么，你就看到什么
+
+    - name: Saturday_
+      link: https://codehhr.ml
+      avatar: https://codehhr.gitee.io/pictures/avatar/tusiji.png
+      descr: 风向决定发型~
+    
+    - name: 旧时繁华
+      link: https://blog.rain888.cn/
+      avatar: http://q2.qlogo.cn/headimg_dl?dst_uin=1329280120&spec=100
+      descr: 繁华似锦觅安宁,淡云流水度此生
+
+    - name: Tokisaki Galaxy
+      link: https://tokisaki-galaxy.now.sh/
+      avatar: https://tokisaki-galaxy.now.sh/medias/avatar.jpg
+      descr: 明天一定会比今天更好。
+    
+    - name: 小嘉的部落格
+      link: https://blog.imzjw.cn
+      avatar: https://cdn.jsdelivr.net/gh/zjwo/CDN/img/blog/avatar.jpg
+      descr: 好记性不如烂笔头
+
+    - name: 泰戈尔
+      link: https://www.ittiger.top
+      avatar: https://ittiger.top/IMG_0150.JPG
+      descr: 永远相信美好的事情即将发生。
+
+    - name: N0ts Blog
+      link: https://blog.n0ts.cn/
+      avatar: https://cdn.nutssss.cn/wp-content/uploads/2020/02/1581510626-head.png
+      descr: 一个爱好钻研技术的咸鱼
+
+    - name: M-GX
+      link: https://mgxnb.club
+      avatar: https://cdn.jsdelivr.net/gh/peaceplace/CDN/img/20200810210800.png
+      descr: 一起努力！一起学习！一起秃头！
+
+    - name: Hajeekn's Blog
+      link: https://blog.slqwq.cn/
+      avatar: https://rmt.dogedoge.com/fetch/hajeekn/storage/Logo@B_3508X4961.png
+      descr: 梦中做梦,做了个白日梦
+
+
