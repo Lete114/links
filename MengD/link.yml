@@ -1,0 +1,38 @@
+class:
+  class_name: 个人站点
+  link_list:
+    - name: 导航网
+      link: https://nav.lete114.top/
+      avatar: https://nav.lete114.top/images/favicon.png
+      descr: 个人导航网
+    
+    - name: 个人主页
+      link: https://www.lete114.top/
+      avatar: https://cdn.jsdelivr.net/gh/lete114/CDN/Lete.png
+      descr: Lete乐特个人主页
+class2:
+  class_name: 开源项目
+  link_list:
+    - name: Hexo-MengD
+      link: https://github.com/lete114/hexo-theme-MengD
+      avatar: https://github.com/favicon.ico
+      descr: 一个简洁的hexo主题
+
+    - name: Hexo-Yilia-Pro主题
+      link: https://github.com/lete114/hexo-theme-yilia-pro
+      avatar: https://github.com/favicon.ico
+      descr: 基于Yilia主题优化与修改
+
+    - name: Hexo-SEO-AutoPush
+      link: https://github.com/lete114/hexo-seo-autopush
+      avatar: https://github.com/favicon.ico
+      descr: 每天自动提交网站URL到Baidu、Bing、Google
+class3:
+  class_name: 示例站点
+  class_desc: 感谢以下网友的支持
+  link_list:
+
+    - name: Lete乐特
+      link: https://www.lete114.top
+      avatar: https://www.lete114.top/img/avatar.png
+      descr: 人生只有一次，大胆的生活！！    
