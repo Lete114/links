@@ -73,11 +73,6 @@ class3:
       avatar: https://gitee.com/lovelijunyi/images/raw/master/20200404135847.jpg
       descr: 喜欢大数据，嵌入式和机器视觉
 
-    - name: 初辰の博客
-      link: https://bt-sonny.gitee.io/
-      avatar: https://cdn.jsdelivr.net/gh/chuchendjs/picgo/picgo/bt-sonny.jpg
-      descr: 成功是努力的另一名字！
-
     - name: 幕光倾城-Linfeng Mei
       link: https://www.meilinfeng.top
       avatar: https://s1.ax1x.com/2020/05/15/YymjXQ.jpg
@@ -102,11 +97,6 @@ class3:
       link: https://www.yansheng.xyz
       avatar: https://myblog12.qiniu.yansheng.xyz/head.jpg
       descr: 生活不止漫无天日的代码和bug，还有诗和远方。
-
-    - name: Aurora`s
-      link: https://blog.this52.cn/
-      avatar: https://cdn.jsdelivr.net/gh/52assert/CDN/img/20200628150416.jpg
-      descr: 偷偷厉害 万物尽可期待！
 
     - name: MJ’s Blog
       link: https://justlovesmile.top
@@ -158,20 +148,10 @@ class3:
       avatar: https://cdn.jsdelivr.net/gh/vickyljj/chucun/usr/uploads/2020/07/3429007563.png
       descr: 满嘴胡扯
 
-    - name: 砂糖のH图床
-      link: https://p.erosouko.pub/
-      avatar: https://i.pro.erosouko.pub/2020/08/08/5b138dd0807d2.jpg
-      descr: 简单的公共高速图床的说(/≧▽≦)/
-
     - name: Eren の 宇宙船
       link: https://erenship.com/ 
       avatar: https://cdn.jsdelivr.net/gh/erenlu/PicGo/img/Eren.jpg
       descr: 觅之，自有所获
-
-    - name: SL
-      link: https://blog.slqwq.cn/
-      avatar: https://cdn.slblog.ga/pic/logo.png
-      descr: 梦中做梦,做了个白日梦
 
     - name: 时过境迁Wayne博客
       link: https://wr0926.ml
@@ -308,11 +288,6 @@ class3:
       avatar: https://cdn.jsdelivr.net/gh/zjwo/CDN/img/blog/avatar.jpg
       descr: 好记性不如烂笔头
 
-    - name: 泰戈尔
-      link: https://www.ittiger.top
-      avatar: https://ittiger.top/IMG_0150.JPG
-      descr: 永远相信美好的事情即将发生。
-
     - name: N0ts Blog
       link: https://blog.n0ts.cn/
       avatar: https://cdn.nutssss.cn/wp-content/uploads/2020/02/1581510626-head.png
@@ -325,11 +300,11 @@ class3:
 
     - name: Hajeekn's Blog
       link: https://blog.slqwq.cn/
-      avatar: https://rmt.dogedoge.com/fetch/hajeekn/storage/Logo@B_3508X4961.png
+      avatar: https://rmt.dogedoge.com/fetch/hajeekn/storage/Logo@B_3508X4961.png?w=640&h=640&mode=clip
       descr: 梦中做梦,做了个白日梦
 
     - name: 青葱博客
-      link: 'https://ciraos.top/'
+      link: https://ciraos.top/
       avatar: 'https://cdn.jsdelivr.net/gh/ciraos/greatimgbed@1.004/avatar.jpg'
       descr: 一切皆付笑谈中
       
