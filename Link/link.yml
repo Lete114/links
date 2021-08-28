@@ -21,6 +21,7 @@ class:
       link: https://yilia.lete114.top/
       avatar: https://www.lete114.top/img/avatar.png
       descr: yilia主题博客
+      
 class2:
   class_name: 开源项目
   link_list:
@@ -39,6 +40,7 @@ class2:
       link: https://github.com/lete114/hexo-seo-autopush
       avatar: https://github.com/favicon.ico
       descr: 每天自动提交网站URL到Baidu、Bing、Google
+      
 class3:
   class_name: 友情链接
   class_desc: 普通友链
