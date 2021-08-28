@@ -4,7 +4,7 @@ class:
   
     - name: Butterfly博客
       link: https://butterfly.lete114.top/
-      avatar: https://cdn.jsdelivr.net/gh/lete114/CDN/Lete.png
+      avatar: https://www.lete114.top/img/avatar.png
       descr: Butterfly主题博客
 
     - name: 导航网
@@ -14,12 +14,12 @@ class:
 
     - name: 个人主页
       link: https://www.lete114.top/
-      avatar: https://cdn.jsdelivr.net/gh/lete114/CDN/Lete.png
+      avatar: https://www.lete114.top/img/avatar.png
       descr: Lete乐特个人主页
 
     - name: yilia博客
       link: https://yilia.lete114.top/
-      avatar: https://cdn.jsdelivr.net/gh/lete114/CDN/Lete.png
+      avatar: https://www.lete114.top/img/avatar.png
       descr: yilia主题博客
 class2:
   class_name: 开源项目
@@ -225,7 +225,7 @@ class3:
  
     - name: 南念的时光录
       link: https://imlql.cn/
-      avatar: https://cdn.jsdelivr.net/gh/youthlql/lql_img/blog/avatar.jpg
+      avatar: https://cdn.jsdelivr.net/gh/youthlql/lqlp@v1.0.0/blog/avatar.jpg
       descr: 主要是Java技术栈的博客，比较偏原理，源码类型的博主
 
     - name: JC小站
@@ -267,11 +267,6 @@ class3:
       link: http://www.cq.qcwy.org.cn/
       avatar: http://www.blog.image.qcwy.org.cn/atavar/atavar.jpg
       descr: 你相信什么，你就看到什么
-
-    - name: Saturday_
-      link: https://codehhr.ml
-      avatar: https://codehhr.gitee.io/pictures/avatar/tusiji.png
-      descr: 风向决定发型~
     
     - name: 旧时繁华
       link: https://blog.rain888.cn/
@@ -285,7 +280,7 @@ class3:
     
     - name: 小嘉的部落格
       link: https://blog.imzjw.cn
-      avatar: https://cdn.jsdelivr.net/gh/zjwo/CDN/img/blog/avatar.jpg
+      avatar: https://cdn.jsdelivr.net/npm/nanshen/avatar.jpg
       descr: 好记性不如烂笔头
 
     - name: N0ts Blog
