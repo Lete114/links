@@ -1,49 +1,26 @@
+# 欢迎添加友链
+# 我允许你自定义分类，就如下方示例所示，你可以新增一个分类
+# 问: 为什么允许自定义分类？
+#   答: 如果所有友链都追加在一个分类里显得太多，不便浏览
+#       另外还能明确清晰的区分友链内容
+# class:
+#   class_name: 值得推荐
+#   class_desc: 大佬
+#   link_list:
+#     - name: 小康博客
+#       link: https://www.antmoe.com/
+#       avatar: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
+#       descr: 一个收藏回忆与分享技术的地方！
+# class2:
+#   class_name: Java区
+#   link_list:
+#     - name: 小康博客
+#       link: https://www.antmoe.com/
+#       avatar: https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/avatar.jpg
+#       descr: 一个收藏回忆与分享技术的地方！
+
 class:
-  class_name: 个人站点
-  link_list:
-  
-    - name: Butterfly博客
-      link: https://butterfly.lete114.top/
-      avatar: https://www.lete114.top/img/avatar.png
-      descr: Butterfly主题博客
-
-    - name: 导航网
-      link: https://nav.lete114.top/
-      avatar: https://nav.lete114.top/images/favicon.png
-      descr: 个人导航网
-
-    - name: 个人主页
-      link: https://www.lete114.top/
-      avatar: https://www.lete114.top/img/avatar.png
-      descr: Lete乐特个人主页
-
-    - name: yilia博客
-      link: https://yilia.lete114.top/
-      avatar: https://www.lete114.top/img/avatar.png
-      descr: yilia主题博客
-      
-class2:
-  class_name: 开源项目
-  link_list:
-
-    - name: Hexo-MengD
-      link: https://github.com/lete114/hexo-theme-MengD
-      avatar: https://github.com/favicon.ico
-      descr: 一个崇尚简约优雅，以及极致的性能，把注意力集中到内容上
-
-    - name: Hexo-Yilia-Pro主题
-      link: https://github.com/lete114/hexo-theme-yilia-pro
-      avatar: https://github.com/favicon.ico
-      descr: 基于Yilia主题优化于修改
-
-    - name: Hexo-SEO-AutoPush
-      link: https://github.com/lete114/hexo-seo-autopush
-      avatar: https://github.com/favicon.ico
-      descr: 每天自动提交网站URL到Baidu、Bing、Google
-      
-class3:
   class_name: 友情链接
-  class_desc: 普通友链
   link_list:
     - name: 小康博客
       link: https://www.antmoe.com/
@@ -62,7 +39,7 @@ class3:
 
     - name: cungudafa
       descr: 一个学习记录者
-      link: https://cungudafa.top
+      link: https://cungudafa.js.org
       avatar: https://cdn.jsdelivr.net/gh/cungudafa/cdn/img/custom/cungudafa.jpg
 
     - name: 神邸 - Zendee.cn
